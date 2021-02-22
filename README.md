@@ -1,4 +1,4 @@
 # first_exercise
 
-Exercicios feitos em C
+Exercicios feitos em C++
 
